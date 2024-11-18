@@ -60,7 +60,7 @@ Resources:
                       "runtime-versions": {{
                           {"ruby2.7": {"ruby": "2.7"},
                             "go1.x": {"golang": "1.x"},
-                            "nodejs12.x": {"nodejs": "12.x"},
+                            "nodejs16.x": {"nodejs": "16.x"},
                             "python3.8": {"python": "3.8"},
                             "java11": {"java": "openjdk11.x"},
                             "dotnetcore3.1": {"dotnet": "3.1"}
